@@ -2,8 +2,11 @@
 // @name         fp
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @author       ammar
+// @description  unlock foreign policy
+// @author       You
 // @match        https://foreignpolicy.com/*/*/*/*
+// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @grant        none
 // ==/UserScript==
 
 (function() {
